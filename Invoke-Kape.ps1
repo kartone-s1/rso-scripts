@@ -1,6 +1,7 @@
 # Create a zip archive containing all the binaries and subfolders (Modules, Targets) of the KAPE forensic collector. Add the 7z.exe (SHA1: F136EF9BF8BD2FC753292FB5B7CF173A22675FB3)
 # aws_config.txt should contain all the needed information to access the S3 bucket.
 # smb_config.txt
+#
 
 <#
 .SYNOPSIS
